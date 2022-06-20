@@ -13,6 +13,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 
+Link to the deployed version: https://react-portfolio-spa.vercel.app/
+
 Tutorial referenced for the assessment: Chinnathambi, K., 2022. Creating a Single-Page App in React using React Router. [online] kirupa.com. Available at: <https://www.kirupa.com/react/creating_single_page_app_react_using_react_router.htm> [Accessed 19 June 2022].
 
 Photos and icons used:
