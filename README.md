@@ -16,7 +16,7 @@ The page will reload when you make changes.\
 Tutorial referenced for the assessment: Chinnathambi, K., 2022. Creating a Single-Page App in React using React Router. [online] kirupa.com. Available at: <https://www.kirupa.com/react/creating_single_page_app_react_using_react_router.htm> [Accessed 19 June 2022].
 
 Photos and icons used:
-[Mail Icon]("https://www.flaticon.com/free-icons/mail") created by Freepik - Flaticon.
-[Phone Icon]("https://www.flaticon.com/free-icons/phone") created by Freepik - Flaticon.
-[LinkedIn Icon]("https://www.flaticon.com/free-icons/linkedin") Smashicons - Flaticon.
-[Photo](https://www.pexels.com/photo/pink-light-fixture-963436/) by Megan Forbes. 
+[Mail Icon](https://www.flaticon.com/free-icons/mail) created by Freepik - Flaticon.
+[Phone Icon](https://www.flaticon.com/free-icons/phone) created by Freepik - Flaticon.
+[LinkedIn Icon](https://www.flaticon.com/free-icons/linkedin) Smashicons - Flaticon.
+[Photo](https://www.pexels.com/photo/pink-light-fixture-963436/) by Megan Forbes.
